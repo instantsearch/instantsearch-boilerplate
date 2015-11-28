@@ -1,4 +1,4 @@
-# InstantSearch.js boilerplate
+# instantsearch.js boilerplate
 
 instantsearch.js is a library of UI widgets to help you build the best
 instant-search experience with Algolia's Hosted Search API. Have a look
